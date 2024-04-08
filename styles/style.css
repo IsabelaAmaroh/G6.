@@ -31,7 +31,6 @@ body {
 .cabecalho__menu {
     display: flex;
     gap: 80px;
-
 }
 
 
@@ -55,7 +54,7 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 70px;
 }
 
 .apresentacao__conteudo__titulo {
