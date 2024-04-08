@@ -1,4 +1,4 @@
-/* comnetário */
+/* comentário */
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 
@@ -25,13 +25,13 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 0%;
+    padding: 2% 0% 0% 15%;
 }
 
 .cabecalho__menu {
     display: flex;
     gap: 80px;
-    justify-content: center;
+
 }
 
 
@@ -100,7 +100,7 @@ body {
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
-    color: var(--cor-secundaria)
+    color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
 }
 
@@ -114,6 +114,13 @@ body {
 }
 
 .apresentacao__conteudo__lista {
+    padding:4%;
+    font-size: 1.5rem;
+    font-family: var(--fonte-primaria)
+}
+
+.apresentacao__conteudo__sublista {
+    padding:1%;
     font-size: 1rem;
     font-family: var(--fonte-primaria)
 }
