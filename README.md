@@ -1,4 +1,4 @@
-# G6 - Engenharia de Software - UNIFESP - 2024
+# G6 
 
 # Este é o início do nosso projeto que está sendo desenvolvido para a disciplina de Engenharia de Software - UNIFESP - 2024
 
