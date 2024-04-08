@@ -18,16 +18,14 @@
 ## Feito por:
 
 ### Gabriel Bianchi;
-
-[url](https://www.linkedin.com/in/gabriel-bianchis/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/gabriel-bianchis/)
 
 ### Isabela Amaro;
-
-[url](https://www.linkedin.com/in/isabela-amarocd/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/isabela-amarocd/)
 
 ### Willian Rosa.
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/wiliam-rosa/)
 
-[url](https://www.linkedin.com/in/wiliam-rosa/)
 
 
 ![image](https://github.com/IsabelaAmaroh/G6./assets/86272548/34f7c22d-353f-4c35-9b10-218d40037504)
