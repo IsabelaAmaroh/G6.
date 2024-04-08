@@ -148,11 +148,11 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
     }
-}
 
     .apresentacao__conteudo {
         width: auto;
     }
+}
 
 /* Utilize a ferramenta "Inspecionar" do navegador para simular diferentes tamanhos de tela.
 Faça ajustes no CSS para melhorar a responsividade, alterando margens, paddings e a disposição dos elementos.*/
