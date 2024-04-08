@@ -27,19 +27,42 @@
             <strong class="titulo-destaque">para Diagnóstico de Doenças!</strong></h1><br>
 
             <p class="apresentacao__conteudo__paragrafo">“Este projeto permite a aplicação de conceitos de 
-                <strong class="titulo-destaque">Engenharia de Software</strong>, além de contribuir significativamente 
-                para a área de <strong class="titulo-destaque">Processamento de Imagens Médicas</strong>, onde há uma 
-                crescente demanda por soluções de automação e análise de imagens.” <br><br><br>
+            <strong class="titulo-destaque">Engenharia de Software</strong>, além de contribuir significativamente 
+            para a área de <strong class="titulo-destaque">Processamento de Imagens Médicas</strong>, onde há uma 
+            crescente demanda por soluções de automação e análise de imagens.” <br><br><br>
 
-                E temos como escopo do projeto, os seguintes passos: <br><br><br>
+            E temos como escopo do projeto, os seguintes passos: <br><br><br>
                 
-                <ul class="apresentacao__conteudo__lista">
-                    <li>Definição do Problema; </li> <br><br>
-                    <li>Aquisição de Dados; </li> <br><br>
-                    <li>Pré-processamento de Dados; </li> <br><br>
-                    <li>Seleção e Treinamento do Modelo; </li> <br><br>
-                    <li>Avaliação do Modelo; </li> <br><br>
-                    <li>Implementação do Sistema. </li> <br><br>
+            <ul class="apresentacao__conteudo__lista">
+                <li>Definição do Problema; </li> <br><br>
+                    <ul>
+                        <li>Detecção e classificação de imagens com tumores meningioma, glioma e pituitário a nível de pixel.</li>
+                    </ul>
+                <li>Aquisição de Dados; </li> <br><br>
+                    <ul>
+                        <li>3.064 CE-MRI em T1. <br>
+                        Dados da Universidade Medica de Tianjing e do Hospital Nanfang em Guangzhou, China, no período de 2005 a 2010.</li>
+                    </ul>
+                <li>Pré-processamento de Dados; </li> <br><br>
+                    <ul>
+                        <li>Redimensionamento e aumento de dados, normalização de intensidade, remoção de ruído e registro de imagens.</li>
+                    </ul>
+                <li>Seleção e Treinamento do Modelo; </li> <br><br>
+                    <ul>
+                        <li>U-Net ( em sua configuração tradicional em formato de U ).</li>
+                        <li>INstânciamento da rede com os hiperparâmetros.</li>
+                        <li>Particionamento dos dados ( treinamento, validação e teste ).</li>
+                        <li>Treinamento utilizando técnicas de aprendizado supervisionado.</li>
+                    </ul>
+                <li>Avaliação do Modelo; </li> <br><br>
+                    <ul>
+                        <li>Métrica: Jaccard (IoU), Precision, Recall, Dice Score e F1.</li> 
+                        <li>Ajustes: Data Augmentation ( melhoramento do desempenho ).</li>
+                    </ul                    
+                <li>Implementação do Sistema. </li> <br><br>
+                    <ul>
+                        <li>Interface de usuário amigável para o sistema de segmentação de imagens médicas.</li> 
+                    </ul 
             </ul>
             </p>
 
