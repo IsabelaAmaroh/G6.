@@ -1,4 +1,4 @@
-/* comentário */
+/* comnetário */
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 
@@ -25,7 +25,7 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 15%;
+    padding: 2% 0% 0% 30%;
 }
 
 .cabecalho__menu {
@@ -52,7 +52,7 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     gap: 40px;
