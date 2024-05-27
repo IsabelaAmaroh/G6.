@@ -24,5 +24,5 @@
 ### Wilian Rosa.
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/wiliam-rosa/)
 
-![GG6](https://github.com/IsabelaAmaroh/G6./assets/86272548/3086ed98-a12a-4109-8e55-4b812d3150dc)
+<!-- ![GG6](https://github.com/IsabelaAmaroh/G6./assets/86272548/3086ed98-a12a-4109-8e55-4b812d3150dc) -->
 
