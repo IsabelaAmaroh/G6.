@@ -1,4 +1,4 @@
-# G6 
+# Group G6 
 
 # Welcome, this is our project that is being developed for the Software Engineering discipline - UNIFESP - 2024
 
