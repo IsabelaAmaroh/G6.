@@ -1,10 +1,10 @@
 # Group G6 
 
-# Welcome, this is our "Semantic Segmentation of Brain Tumor" project that is being developed for the Software Engineering discipline - UNIFESP - 2024
+# Bem-vindo, este é o nosso projeto "Segmentação Semântica de Tumor Cerebral" desenvolvido para a disciplina de Engenharia de Software - UNIFESP - 2024
 
 # Descrição do projeto:
 Este projeto visa desenvolver um sistema de segmentação de imagens médicas, focado na detecção e classificação precisa de tumores (meningioma, glioma e pituitário) a nível de pixel. Utilizando técnicas avançadas de processamento de imagens e aprendizado profundo. O sistema identificará com precisão as regiões de interesse, fornecendo informações cruciais para diagnósticos e tratamentos mais eficazes.
-Além disso, para fins de produtizar a solução garantindo performance e eficiência tecnológica, foi definida uma arquitetura em nuvem que propicie as etapas de extração das imagens e armazenamento em camadas de um datalake, sendo que nesta etapa também foi criado um webapp serveless em c# e implantado em cloud Microsoft Azure, cuja interface permite o upload das imagens diretamente integrado com o datalake. Para a etapa de processamento/transformação das imagens foi utilizada a plataforma Databricks, todo o código python foi transcrito para Pyspark nesta ferramenta, com isso obtendo o ganho em escalonamento de computação (cluster de processamento), processamento paralelo (spark) e performance significativa. Ao fim da etapa de transformação e tratamento das imagens, uma camada final de entrega destas foi defnida (camada trusted do datalake). O carragamento para esta camada disponibiliza as imagens e dados para fins de integração com ERP's ou datavis por exemplo.
+Além disso, para fins de produtizar a solução garantindo performance e eficiência tecnológica, foi definida uma arquitetura em nuvem que propicie as etapas de extração das imagens e armazenamento em camadas de um datalake, sendo que nesta etapa também foi criado um webapp serveless em c# e implantado em cloud Microsoft Azure, cuja interface permite o upload das imagens diretamente integrado com o datalake. Para a etapa de processamento/transformação das imagens foi utilizada a plataforma Databricks, todo o código python foi transcrito para Pyspark nesta ferramenta, com isso obtendo o ganho em escalonamento de computação (cluster de processamento), processamento paralelo (spark) e performance significativa. Ao fim da etapa de transformação e tratamento das imagens, uma camada final de entrega destas foi defnida (camada trusted do datalake). O carregamento para esta camada disponibiliza as imagens e dados para fins de integração com ERP's ou datavis por exemplo.
 
 # Imagens dos resultados obtidos:
 
@@ -26,15 +26,15 @@ Além disso, para fins de produtizar a solução garantindo performance e efici�
 <!-- Este é um comentário em Markdown
 ![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png) -->
 
-## We use:
+## Nós usamos:
 
-* Deep Learning;
+* Aprendizado Profundo;
 
-* Medical Image Processing;
+* Processamento de Imagens Médicas;
 
-* Software Engineering.
+* Engenharia de Software.
 
-## Made by:
+## Feito por:
 
 ### Gabriel Bianchi;
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/gabriel-bianchis/)
